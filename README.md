@@ -31,7 +31,8 @@
 *Students will need to import pydotplus for this lesson
 
 ```bash\n",
-    "!pip install pydotplus pydot2```
+    "!pip install pydotplus pydot2 
+    ```
 
 ---
 
