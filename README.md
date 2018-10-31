@@ -28,11 +28,7 @@
 
 ## Student Requirements
 
-*Students will need to import `pydotplus` for this lesson*
-
-```bash\n",
-    "!pip install pydotplus pydot2 
-    ```
+Students will need to import `pydotplus` for this lesson
 
 ---
 
