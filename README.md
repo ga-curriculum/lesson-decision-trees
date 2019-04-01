@@ -7,7 +7,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Trees-CARTs | [Part 1](./1-intro-to-CART.ipynb) - [Part 2](./2-decision-trees-in-depth.ipynb)|
+| Lesson | Starter Code | [Link](./starter-code.ipynb)
+
+> Data: Titanic Data
 
 ---
 
@@ -15,20 +17,11 @@
 
 *After this lesson, students will be able to:*
 
-1. Understand the core concepts behind decision tree classifiers
-2. How class balance relates to Gini and Entropy
-3. The concept of Information Gain
-4. Understand decision trees use information gain to make decisions
-5. Describe the detailed process of decision trees
-6. Understand bias / variance tradeoff of decision trees
-7. Implemenation a decision tree in sklearn
-
-
----
-
-## Student Requirements
-
-Students will need to import `pydotplus` for this lesson
+- Understand the intuition behind decision trees.
+- Calculate Gini and entropy.
+- Describe how decision trees use gini and entropy to make decisions.
+- Fit, generate predictions from, and evaluate decision tree models.
+- Interpret and tune `criterion`, `max_depth`, `min_samples_split`.
 
 ---
 
