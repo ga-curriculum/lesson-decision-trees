@@ -18,8 +18,8 @@
 *After this lesson, students will be able to:*
 
 - Understand the intuition behind decision trees.
-- Calculate Gini and entropy.
-- Describe how decision trees use gini and entropy to make decisions.
+- Calculate Gini.
+- Describe how decision trees use gini to make decisions.
 - Fit, generate predictions from, and evaluate decision tree models.
 - Interpret and tune `max_depth`, `min_samples_split`, `min_samples_leaf`.
 
