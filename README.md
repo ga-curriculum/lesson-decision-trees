@@ -30,5 +30,7 @@
 - [Documentation for `DecisionTreeClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [Documentation for `DecisionTreeRegressor`](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
 - [`sklearn.tree` module](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.tree)
-- [Good discussion of interpretability vs. prediction as we dive into various methods](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
+- [Blog Post: Determining which feature to split on in a decision tree](https://medium.com/analytics-vidhya/decision-trees-which-feature-to-split-on-91083fc32279)
+- [Blog Post: Good discussion of interpretability vs. prediction](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
+- [Tutorial on Tree-Based Modeling from Scratch](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 - [Supplemental Code including GraphViz visualization](./supplemental/classification-and-regression-trees.ipynb)
