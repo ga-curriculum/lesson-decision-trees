@@ -21,7 +21,8 @@
 2. Calculate Gini.
 3. Describe how decision trees use gini to make decisions.
 4. Fit, generate predictions from, and evaluate decision tree models.
-5. Interpret and tune `max_depth`, `min_samples_split`, `min_samples_leaf`.
+5. Interpret and tune `max_depth`, `min_samples_split`, `min_samples_leaf`, `ccp_alpha`.
+6. Visualize a decision tree.
 
 ---
 
