@@ -7,11 +7,11 @@
 *After this lesson, students will be able to:*
 
 1. Understand the intuition behind decision trees.
-2. Calculate Gini.
-3. Describe how decision trees use gini to make decisions.
-4. Fit, generate predictions from, and evaluate decision tree models.
-5. Interpret and tune `max_depth`, `min_samples_split`, `min_samples_leaf`, `ccp_alpha`.
-6. Visualize a decision tree.
+1. Understand the CART algorithm that powers decision trees.
+1. Describe how decision trees use Gini to make decisions.
+1. Fit, generate predictions from, and evaluate decision tree models.
+1. Tune `max_depth`, `min_samples_split`, `min_samples_leaf` to get the best possible tree.
+1. Visualize a decision tree.
 
 ---
 
