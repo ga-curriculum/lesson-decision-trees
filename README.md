@@ -2,17 +2,6 @@
 
 ---
 
-## Materials We Provide
-
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Starter Code | [Link](./starter-code.ipynb)
-
-> Data: Titanic Data
-
----
-
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
